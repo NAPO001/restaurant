@@ -7,7 +7,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Valencienne</title>
     <script src="https://kit.fontawesome.com/2b1a7acadb.js" crossorigin="anonymous"></script>
-    crossorigin="anonymous"></script>
 
     <!--Style-->
     <link rel="stylesheet" href="{{ asset('assets/front/css/style.css') }}">
